@@ -1,6 +1,8 @@
 # Traitement automatisé des Bureaux de Vote - Élections Présidentielles Sénégal 2024
 
 Ce projet vise à traiter et organiser les informations relatives aux bureaux de vote du Sénégal pour les élections présidentielles de 2024. Le processus est entièrement automatisé, depuis l'extraction des données à partir de fichiers PDF jusqu'à la génération de fichiers CSV consolidés par région, département et commune.
+[CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024.csv](CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024.csv)
+
 
 ## Processus de Traitement
 
