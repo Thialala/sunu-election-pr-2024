@@ -21,8 +21,8 @@ ConsolidateCsvFiles(outputDirectory);
 // Exporte chaque page d'un fichier PDF en fichiers PDF séparés
 void ExportPdfPagesAsSeparateFiles(string pdfFile, string outputDirectory)
 {
-
-    for (int i = 1; i <= 14; i++)
+    using var reader = new PdfDocument(new PdfReader(pdfFile));
+    for (int i = 1; i <= reader.GetNumberOfPages(); i++)
     {
         var outputPdfPath = Path.Combine(outputDirectory, $"{i:D4}.pdf");
         if (File.Exists(outputPdfPath))
