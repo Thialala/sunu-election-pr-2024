@@ -4,6 +4,14 @@ Ce projet vise à traiter et organiser les informations relatives aux bureaux de
 
 [CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024.csv](CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024.csv)
 
+## Prérequis
+
+Avant d'exécuter le programme, il est nécessaire de créer une ressource Azure Document Intelligence, de récupérer son endpoint et sa clé, et de les enregistrer dans les variables d'environnement suivantes :
+
+- `AZURE_DOC_INTEL_ENDPOINT` : Endpoint de votre ressource Azure Document Intelligence.
+- `AZURE_DOC_INTEL_KEY` : Clé d'accès à votre ressource Azure Document Intelligence.
+
+Ces informations sont cruciales pour permettre l'extraction de données et leur traitement par le programme.
 
 ## Processus de Traitement
 
