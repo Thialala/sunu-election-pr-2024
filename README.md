@@ -1,8 +1,20 @@
 # Traitement automatisé des Bureaux de Vote - Élections Présidentielles Sénégal 2024
 
-Ce projet vise à traiter et organiser les informations relatives aux bureaux de vote du Sénégal pour les élections présidentielles de 2024. Le processus est entièrement automatisé, depuis l'extraction des données à partir de fichiers PDF jusqu'à la génération de fichiers CSV consolidés par région, département et commune.
+Ce projet vise à traiter et organiser les informations relatives aux bureaux de vote du Sénégal pour les élections présidentielles de 2024. Le processus est entièrement automatisé, depuis l'extraction des données à partir de fichiers PDF jusqu'à la génération de fichiers CSV consolidés par région, département et commune et aussi par pays, localité et bureau de vote pour les sénégalais de l'étranger.
 
-[CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024.csv](CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024.csv)
+- [CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024.csv](CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024.csv)
+ 
+    - Bureaux de vote : 15 633
+    - Electeurs : 7 033 854
+
+ - [CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024_ETRANGER.csv](CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024_ETRANGER.csv)
+
+    - Représentations diplômatiques : 35
+    - Pays : 49
+    - Localités : 98
+    - Lieux de vote : 367
+    - Bureaux de vote : 807
+    - Electeurs : 337 708 
 
 ## Prérequis
 
