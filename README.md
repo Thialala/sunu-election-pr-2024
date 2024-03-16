@@ -10,11 +10,11 @@ Ce projet vise à traiter et organiser les informations relatives aux bureaux de
  - [CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024_ETRANGER.csv](CARTE_ELECTORALE_ELECTION_PR_DU_25FEV2024_ETRANGER.csv)
 
     - Représentations diplômatiques : 35
-    - Pays : 49
+    - Pays : 50
     - Localités : 98
     - Lieux de vote : 367
     - Bureaux de vote : 807
-    - Electeurs : 337 708 
+    - Electeurs : 338 040 
 
 ## Prérequis
 
